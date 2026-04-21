@@ -1,0 +1,9 @@
+.git
+.idea
+target
+data
+logs
+logs.*
+app.pid
+spring-run.log
+spring-run.err
