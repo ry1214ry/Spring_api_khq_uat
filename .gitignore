@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+logs
+logs.*.gz
+app.pid
+spring-run.log
+spring-run.err
